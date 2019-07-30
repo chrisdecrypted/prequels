@@ -1,1 +1,12 @@
 theme: jekyll-theme-slate
+
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - INDEX.md
+  - ABOUT.md
+  - MUSIC.md
+  - CONTACT.md
