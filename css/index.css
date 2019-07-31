@@ -6,7 +6,7 @@ body {
 h1 {
   color: #41a4c2;
   font-family: "Krona One", Arial, Sans-Serif;
-  font-size: 5em;
+  font-size: 10em;
   font-weight: 500;
   text-align: left;
   line-height: 50%;
@@ -15,7 +15,7 @@ h1 {
 h2 {
   color: #ffffff;
   font-family: "Roboto Condensed", Arial, Sans-Serif;
-  font-size: 3em;
+  font-size: 7em;
   font-weight: 200;
   text-align: left;
   line-height: 50%;
@@ -23,7 +23,7 @@ h2 {
 
 h3 {
   font-family: "Roboto Condensed", Arial, Sans-Serif;
-  font-size: 3em;
+  font-size: 6em;
   font-weight: 200;
   color: #cccccc;
   text-align: left;
@@ -31,7 +31,7 @@ h3 {
 
 a {
   font-family: "Roboto Condensed", Arial, Sans-Serif;
-  font-size: 1em;
+  font-size: 3em;
   font-weight: 200;
   color: #cccccc;
   text-align: left;
@@ -39,49 +39,12 @@ a {
 
 p {
   font-family: "Roboto Condensed", Arial, Sans-Serif;
-  font-size: 1em;
+  font-size: 3em;
   font-weight: 200;
   color: #cccccc;
   text-align: left;
 }
 
-.image {
-  height: 12em;
-  width: 18em;
-  opacity: 0.5;
-}
-
-.image:hover {
-  height: 12em;
-  width: 18em;
-  opacity: 1;
-  transition: opacity 2s ease-in-out;
-  -moz-transition: opacity 2s ease-in-out;
-  -webkit-transition: opacity 2s ease-in-out;
-  -o-transition: opacity 2s ease-in-out;
-}
-
-.color1 {
-  background-color: #41a4c2;
-  height: 12em;
-  width: 18em;
-  opacity: 0.5;
-}
-
-.color1:hover {
-  background-color: #41a4c2;
-  height: 12em;
-  width: 18em;
-  opacity: 1;
-  transition: opacity 2s ease-in-out;
-  -moz-transition: opacity 2s ease-in-out;
-  -webkit-transition: opacity 2s ease-in-out;
-  -o-transition: opacity 2s ease-in-out;
-}
-
-li {
-  display: inline-block;
-  text-align: center;
 }
 
 
