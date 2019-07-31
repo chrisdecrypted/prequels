@@ -1,14 +1,15 @@
 body {
     color: #003333;
-    background-image: url("http://the-prequels.com/img/bg_dark1.png");
+    background-image: url("http://the-prequels.com/img/bg_dark.png");
     font-size: 0.8em;
 }
 div {
+    color: #003333;
     opacity: .8;
 }
 
 h1 {
-    color: #3399cc;
+    color: #7339cc;
     font-family: krok, krona one, sans-serif;
     font-weight: 400;
     font-style: normal;
