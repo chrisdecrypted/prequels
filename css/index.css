@@ -1,50 +1,61 @@
 body {
-  background-color: #0a0714;
-  background-image: url("http://the-prequels.com/img/bg_dark.gif");
+    color: #ccc;
+    background-image: url("http://the-prequels.com/img/bg_dark.png");
+    font-size: 0.8em;
+}
+div {
+    opacity: .8;
 }
 
 h1 {
-  color: #41a4c2;
-  font-family: "Krona One", Arial, Sans-Serif;
-  font-size: 10em;
-  font-weight: 500;
-  text-align: left;
+    color: #3399cc;
+    font-family: krok, krona one, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 12em;
+    line-height: 50%;
+    opacity: .95;
 
 }
 
 h2 {
-  color: #cccccc;
-  font-family: "Roboto Condensed", Arial, Sans-Serif;
-  font-size: 5em;
-  font-weight: 200;
-  text-align: left;
-
+    color: #cccccc;
+    font-family: "Roboto Condensed", Arial, Sans-Serif;
+    font-size: 3em;
+    font-weight: 200;
 }
 
 h3 {
   font-family: "Roboto Condensed", Arial, Sans-Serif;
-  font-size: 6em;
+  font-size: 1.75em;
   font-weight: 200;
-  color: #ffffff;
-  text-align: left;
+  color: #3399cc;
+
 }
 
 a {
-  font-family: "Roboto Condensed", Arial, Sans-Serif;
-  font-size: 3em;
-  font-weight: 200;
-  color: #ffffff;
-  text-align: left;
+    font-family: "Roboto Condensed", Arial, Sans-Serif;
+    font-weight: 200;
+    color: #3399cc;
 }
 
 p {
-  font-family: "Roboto Condensed", Arial, Sans-Serif;
-  font-size: 3em;
-  font-weight: 200;
-  color: #ffffff;
-  text-align: left;
+    font-family: "Roboto Condensed", Arial, Sans-Serif;
+    font-size: 1.5em;
+    font-weight: 200;
+    color: #ffffff;
+    text-align: left;
+}
+
+header {
+
+    text-align: center;
+}
+footer {
+    font-family: "Roboto Condensed", Arial, Sans-Serif;
+    font-size: 1em;
+    font-weight: 100;
+    text-align: center;
 }
 
 }
-
-
