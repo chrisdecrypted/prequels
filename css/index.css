@@ -1,108 +1,71 @@
-body {
-<<<<<<< HEAD
-    color: #c7c7c7;
-=======
-    color: #003333;
->>>>>>> ca0157e61ba5f7dc2ffab9f3767b5b1a435a5fd6
-    background-image: url("http://the-prequels.com/img/bg_dark1.png");
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-attachment: fixed;
-<<<<<<< HEAD
-    padding: 1em;
-}
-main {
-    background-color: #001111;
-    opacity: .9;
-    width: auto;
-}
-.scale {
-    max-width: 100%;
-    height: auto;
-    max-height: 100%;
-}
-=======
-    font-size: 16px;
-    padding: 1em;
-   
-}
-div { width:80%;
+
+    body {
+        background-color: #000013;
+        background-image: url("http://the-prequels.com/img/bg_dark1.png");
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-attachment: fixed;
+        font-size: 16px;
+        padding: 1em;
     }
->>>>>>> ca0157e61ba5f7dc2ffab9f3767b5b1a435a5fd6
-h1 {
-    color: #1177aa;
-    font-family: krok, krona one, sans-serif;
-    font-weight: 400;
-    font-style: normal;
-<<<<<<< HEAD
-    font-size: 12em;
-    text-shadow: 0.05em 0.07em #001133;
-    line-height: 0.2em;
-=======
-    font-size: 10em;
-    text-shadow: .05em .07em #676767;
-   
-}
-
-@media screen and (max-width: 600px)
- {h1
-    {
-    color: #98ad44;
-    font-family: krok, krona one, sans-serif;
-    font-weight: 400;
-    font-style: normal;
-    font-size: 6em;
->>>>>>> ca0157e61ba5f7dc2ffab9f3767b5b1a435a5fd6
-}
- }
-
-h2 {
-    color: #1177aa;
-    font-family: "Roboto Condensed", Arial, Sans-Serif;
-    font-size: 2.5em;
-    font-weight: 200;
-    font-variant-caps: all-small-caps;
-    text-align: center;
-}
-
-h3 {
-    font-family: "Roboto Condensed", Arial, Sans-Serif;
-    font-size: 1.75em;
-    font-weight: 200;
-    color: #c7c7c7;
-}
-
-a {
-    font-family: "Roboto Condensed", Arial, Sans-Serif;
-    font-weight: 500;
-    color: #3399cc;
-}
-
-p {
-    font-family: "Roboto Condensed", Arial, Sans-Serif;
-    font-size: 1.5em;
-    font-weight: 200;
-    color: #ffffff;
-    text-align: left;
-}
-
-header {
-<<<<<<< HEAD
-    text-align: center;
-    padding: 0;
-=======
-   text-align: center;
->>>>>>> ca0157e61ba5f7dc2ffab9f3767b5b1a435a5fd6
-}
-
-footer {
-    font-family: "Roboto Condensed", Arial, Sans-Serif;
-    font-size: 1em;
-    font-weight: 100;
-    text-align: center;
-}
-
-<<<<<<< HEAD
-=======
-
->>>>>>> ca0157e61ba5f7dc2ffab9f3767b5b1a435a5fd6
+    main {
+        background-color: #001111;
+        opacity: .9;
+        width: auto;
+    }
+    .scale {
+        max-width: 100%;
+        height: auto;
+        max-height: 100%;
+    }
+    h1 {
+        color: #1177aa;
+        font-family: krok, krona one, sans-serif;
+        font-weight: 400;
+        font-style: normal;
+        font-size: 8em;
+        text-shadow: 0.05em 0.07em #001133;
+        line-height: 0.2em;
+    }
+    
+    h2 {
+        color: #1177aa;
+        font-family: "Roboto Condensed", Arial, Sans-Serif;
+        font-size: 1.15em;
+        font-weight: 200;
+        font-variant-caps: all-small-caps;
+        text-align: center;
+    }
+    
+    h3 {
+        font-family: "Roboto Condensed", Arial, Sans-Serif;
+        font-size: 1.155em;
+        font-weight: 200;
+        color: #c7c7c7;
+    }
+    
+    a {
+        font-family: "Roboto Condensed", Arial, Sans-Serif;
+        font-weight: 500;
+        color: #3399cc;
+    }
+    
+    p {
+        font-family: "Roboto Condensed", Arial, Sans-Serif;
+        font-size: 1em;
+        font-weight: 200;
+        color: #ffffff;
+        text-align: left;
+    }
+    
+    header {
+        text-align: center;
+        padding: 0;
+    }
+    
+    footer {
+        font-family: "Roboto Condensed", Arial, Sans-Serif;
+        font-size: 1em;
+        font-weight: 100;
+        text-align: center;
+    }
